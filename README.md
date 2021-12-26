@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-This project was done as the final project for the **Foundamentals Of Data Science And Lab** class of Sapienza's **Data Science's Master Degree**.
+This project was done as the final project for the **Fundamentals Of Data Science And Lab** class of Sapienza's **Data Science's Master Degree**.
 
 ## Team
 
