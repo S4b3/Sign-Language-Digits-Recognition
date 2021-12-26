@@ -8,8 +8,6 @@ This project was done as the final project for the **Foundamentals Of Data Scien
 
 ## Team
 
----
-
 - Valentino Sacco: [S4b3](https://github.com/S4b3)
 - Arturo Ghinassi: [ghinassi1863151](https://github.com/ghinassi1863151)
 - Camilla Savarese: [Camillasavarese](https://github.com/Camillasavarese)
@@ -18,17 +16,14 @@ This project was done as the final project for the **Foundamentals Of Data Scien
 
 ## Goal
 
----
 For this project we tried to understand how to best perform recognition on the [Sign Language Digits Dataset](https://www.kaggle.com/ardamavi/sign-language-digits-dataset)*, starting from a Naive Bayes Classifier approach and then seeing how to enhance its performances.
 
 ## Report
 
----
 An more in depth Report of our work process, observations and results can be found [here](https://github.com/S4b3/Sign-Language-Digits-Recognition/blob/main/report.pdf)
 
 ## Techniques ([main.ipynb](https://github.com/S4b3/Sign-Language-Digits-Recognition/blob/main/main.ipynb))
 
----
 
 ### The sequent approaches were tried in combination with dataset transformation techniques to find the best solution
 
@@ -64,7 +59,6 @@ We computed chamfer distance after applying above edge recognition on the datase
 
 ## Repository content
 
----
 
 - ``main.ipynb``: is the main working area, containing all the
 - ``utils.py``: module containing data loading and preprocessing functions
