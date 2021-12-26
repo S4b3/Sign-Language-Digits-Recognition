@@ -24,7 +24,7 @@ For this project we tried to understand how to best perform recognition on the [
 ## Report
 
 ---
-An more in depth Report of our work process, observations and results can be found [here]()
+An more in depth Report of our work process, observations and results can be found [here](https://github.com/S4b3/Sign-Language-Digits-Recognition/blob/main/report.pdf)
 
 ## Techniques ([main.ipynb](https://github.com/S4b3/Sign-Language-Digits-Recognition/blob/main/main.ipynb))
 
