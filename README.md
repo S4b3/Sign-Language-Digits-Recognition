@@ -55,7 +55,7 @@ We computed chamfer distance after applying above edge recognition on the datase
 - Principal Component Analysis for noise reduction
 - Gaussian Smoothing for noise reduction
 
-    <img src="https://user-images.githubusercontent.com/50860347/147412474-ae848225-3045-47a3-b145-8146ff2c9b9c.png" style="height: 200px"\>
+    <img src="https://user-images.githubusercontent.com/50860347/147412474-ae848225-3045-47a3-b145-8146ff2c9b9c.png" style="height: 200px"/>
 
 ## Repository content
 
